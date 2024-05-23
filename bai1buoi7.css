@@ -34,7 +34,7 @@
     left: 55px;
     color: white;
     font-size: 30px;
-    opacity: 0;
+    opacity: 5;
     transition: 0.4s;
 }
 .bo:hover .lop3{
